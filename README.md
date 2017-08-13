@@ -20,8 +20,6 @@ npm install react-router-dom --save
 ```
 
 
-
-
 React-router 4 has changed in that it no longer has children. However, with the Route  component you can render anything that matches the path.
 
 The <Switch> will iterate over its children elements (the routes) and only render the first one that matches the current pathname.
