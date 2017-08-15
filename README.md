@@ -1,6 +1,6 @@
 # React-Routing-v4-step-by-step
 ```
-for react setup u can follow 
+for react setup u can also follow 
 ```
 <h5>https://github.com/LalitTyagi/React/tree/master/React setup step by step</h5>
 
